@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <Import Project="..\..\common.props" />
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>ControlCenterServices.HttpApi.Hosting</RootNamespace>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <WarningLevel>2</WarningLevel>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore" Version="2.2.0" />
+    <PackageReference Include="Volo.Abp" Version="3.1.0" />
+    <PackageReference Include="Volo.Abp.AspNetCore" Version="3.1.0" />
+    <PackageReference Include="Volo.Abp.AspNetCore.Mvc" Version="3.1.0" />
+    <PackageReference Include="Volo.Abp.Autofac" Version="3.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ControlCenterServices.EntityFrameworkCore\ControlCenterServices.EntityFrameworkCore.csproj" />
+    <ProjectReference Include="..\ControlCenterServices.HttpApi\ControlCenterServices.HttpApi.csproj" />
+  </ItemGroup>
+
+</Project>
