@@ -10,15 +10,3 @@ D:\Workspace\ControlCenterServices\src\ControlCenterServices.Application.Contrac
 D:\Workspace\ControlCenterServices\src\ControlCenterServices.Application.Contracts\obj\Debug\netstandard2.0\ControlCenterServices.Application.Contracts.csproj.CopyComplete
 D:\Workspace\ControlCenterServices\src\ControlCenterServices.Application.Contracts\obj\Debug\netstandard2.0\ControlCenterServices.Application.Contracts.dll
 D:\Workspace\ControlCenterServices\src\ControlCenterServices.Application.Contracts\obj\Debug\netstandard2.0\ControlCenterServices.Application.Contracts.pdb
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.Application.Contracts\bin\Debug\netstandard2.0\ControlCenterServices.Application.Contracts.deps.json
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.Application.Contracts\bin\Debug\netstandard2.0\ControlCenterServices.Application.Contracts.dll
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.Application.Contracts\bin\Debug\netstandard2.0\ControlCenterServices.Application.Contracts.pdb
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.Application.Contracts\bin\Debug\netstandard2.0\ControlCenterServices.Domain.Shared.dll
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.Application.Contracts\bin\Debug\netstandard2.0\ControlCenterServices.Domain.Shared.pdb
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.Application.Contracts\obj\Debug\netstandard2.0\ControlCenterServices.Application.Contracts.csprojAssemblyReference.cache
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.Application.Contracts\obj\Debug\netstandard2.0\ControlCenterServices.Application.Contracts.AssemblyInfoInputs.cache
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.Application.Contracts\obj\Debug\netstandard2.0\ControlCenterServices.Application.Contracts.AssemblyInfo.cs
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.Application.Contracts\obj\Debug\netstandard2.0\ControlCenterServices.Application.Contracts.csproj.CoreCompileInputs.cache
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.Application.Contracts\obj\Debug\netstandard2.0\ControlCenterServices.Application.Contracts.csproj.CopyComplete
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.Application.Contracts\obj\Debug\netstandard2.0\ControlCenterServices.Application.Contracts.dll
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.Application.Contracts\obj\Debug\netstandard2.0\ControlCenterServices.Application.Contracts.pdb

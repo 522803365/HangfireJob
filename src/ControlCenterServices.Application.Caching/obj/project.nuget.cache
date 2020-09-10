@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hIuWK4I4BmJf4Ozt/hxNCTEx3PFmxiN74r6sb8ZleGrEOZgXQSF+vduoEhBSYjbrH3h/kr/lfr7iJLK+UO5/dQ==",
+  "dgSpecHash": "YfKEVnqtkgzY78MSUY0Hbs75BTJfAZ3EiE4suLyl1f4Nkx5HPNDP/Dgi0Ubfy2TPqcJ/VwWjLo4WKVLvNsuilw==",
   "success": true,
-  "projectFilePath": "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.Application.Caching\\ControlCenterServices.Application.Caching.csproj",
+  "projectFilePath": "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.Application.Caching\\ControlCenterServices.Application.Caching.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

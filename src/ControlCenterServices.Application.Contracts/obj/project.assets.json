@@ -4602,11 +4602,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.Application.Contracts\\ControlCenterServices.Application.Contracts.csproj",
+      "projectUniqueName": "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.Application.Contracts\\ControlCenterServices.Application.Contracts.csproj",
       "projectName": "ControlCenterServices.Application.Contracts",
-      "projectPath": "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.Application.Contracts\\ControlCenterServices.Application.Contracts.csproj",
+      "projectPath": "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.Application.Contracts\\ControlCenterServices.Application.Contracts.csproj",
       "packagesPath": "C:\\Users\\wutao\\.nuget\\packages\\",
-      "outputPath": "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.Application.Contracts\\obj\\",
+      "outputPath": "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.Application.Contracts\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\wutao\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4622,8 +4622,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.Domain.Shared\\ControlCenterServices.Domain.Shared.csproj": {
-              "projectPath": "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.Domain.Shared\\ControlCenterServices.Domain.Shared.csproj"
+            "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.Domain.Shared\\ControlCenterServices.Domain.Shared.csproj": {
+              "projectPath": "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.Domain.Shared\\ControlCenterServices.Domain.Shared.csproj"
             }
           }
         }

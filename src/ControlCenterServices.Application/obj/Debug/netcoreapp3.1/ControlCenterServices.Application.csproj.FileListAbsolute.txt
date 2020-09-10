@@ -12,17 +12,3 @@ D:\Workspace\ControlCenterServices\src\ControlCenterServices.Application\obj\Deb
 D:\Workspace\ControlCenterServices\src\ControlCenterServices.Application\obj\Debug\netcoreapp3.1\ControlCenterServices.Application.csproj.CopyComplete
 D:\Workspace\ControlCenterServices\src\ControlCenterServices.Application\obj\Debug\netcoreapp3.1\ControlCenterServices.Application.dll
 D:\Workspace\ControlCenterServices\src\ControlCenterServices.Application\obj\Debug\netcoreapp3.1\ControlCenterServices.Application.pdb
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.Application\bin\Debug\netcoreapp3.1\ControlCenterServices.Application.deps.json
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.Application\bin\Debug\netcoreapp3.1\ControlCenterServices.Application.dll
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.Application\bin\Debug\netcoreapp3.1\ControlCenterServices.Application.pdb
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.Application\bin\Debug\netcoreapp3.1\ControlCenterServices.Application.Contracts.dll
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.Application\bin\Debug\netcoreapp3.1\ControlCenterServices.Domain.Shared.dll
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.Application\bin\Debug\netcoreapp3.1\ControlCenterServices.Application.Contracts.pdb
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.Application\bin\Debug\netcoreapp3.1\ControlCenterServices.Domain.Shared.pdb
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.Application\obj\Debug\netcoreapp3.1\ControlCenterServices.Application.csprojAssemblyReference.cache
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.Application\obj\Debug\netcoreapp3.1\ControlCenterServices.Application.AssemblyInfoInputs.cache
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.Application\obj\Debug\netcoreapp3.1\ControlCenterServices.Application.AssemblyInfo.cs
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.Application\obj\Debug\netcoreapp3.1\ControlCenterServices.Application.csproj.CoreCompileInputs.cache
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.Application\obj\Debug\netcoreapp3.1\ControlCenterServices.Application.csproj.CopyComplete
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.Application\obj\Debug\netcoreapp3.1\ControlCenterServices.Application.dll
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.Application\obj\Debug\netcoreapp3.1\ControlCenterServices.Application.pdb

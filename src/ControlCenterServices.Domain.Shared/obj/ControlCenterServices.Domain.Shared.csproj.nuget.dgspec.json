@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.Domain.Shared\\ControlCenterServices.Domain.Shared.csproj": {}
+    "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.Domain.Shared\\ControlCenterServices.Domain.Shared.csproj": {}
   },
   "projects": {
-    "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.Domain.Shared\\ControlCenterServices.Domain.Shared.csproj": {
+    "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.Domain.Shared\\ControlCenterServices.Domain.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.Domain.Shared\\ControlCenterServices.Domain.Shared.csproj",
+        "projectUniqueName": "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.Domain.Shared\\ControlCenterServices.Domain.Shared.csproj",
         "projectName": "ControlCenterServices.Domain.Shared",
-        "projectPath": "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.Domain.Shared\\ControlCenterServices.Domain.Shared.csproj",
+        "projectPath": "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.Domain.Shared\\ControlCenterServices.Domain.Shared.csproj",
         "packagesPath": "C:\\Users\\wutao\\.nuget\\packages\\",
-        "outputPath": "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.Domain.Shared\\obj\\",
+        "outputPath": "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.Domain.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wutao\\AppData\\Roaming\\NuGet\\NuGet.Config",

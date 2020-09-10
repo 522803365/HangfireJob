@@ -10,15 +10,3 @@ D:\Workspace\ControlCenterServices\src\ControlCenterServices.Domain\bin\Debug\ne
 D:\Workspace\ControlCenterServices\src\ControlCenterServices.Domain\obj\Debug\netcoreapp3.1\ControlCenterServices.Domain.csproj.CopyComplete
 D:\Workspace\ControlCenterServices\src\ControlCenterServices.Domain\obj\Debug\netcoreapp3.1\ControlCenterServices.Domain.dll
 D:\Workspace\ControlCenterServices\src\ControlCenterServices.Domain\obj\Debug\netcoreapp3.1\ControlCenterServices.Domain.pdb
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.Domain\bin\Debug\netcoreapp3.1\ControlCenterServices.Domain.deps.json
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.Domain\bin\Debug\netcoreapp3.1\ControlCenterServices.Domain.dll
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.Domain\bin\Debug\netcoreapp3.1\ControlCenterServices.Domain.pdb
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.Domain\bin\Debug\netcoreapp3.1\ControlCenterServices.Domain.Shared.dll
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.Domain\bin\Debug\netcoreapp3.1\ControlCenterServices.Domain.Shared.pdb
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.Domain\obj\Debug\netcoreapp3.1\ControlCenterServices.Domain.csprojAssemblyReference.cache
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.Domain\obj\Debug\netcoreapp3.1\ControlCenterServices.Domain.AssemblyInfoInputs.cache
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.Domain\obj\Debug\netcoreapp3.1\ControlCenterServices.Domain.AssemblyInfo.cs
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.Domain\obj\Debug\netcoreapp3.1\ControlCenterServices.Domain.csproj.CoreCompileInputs.cache
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.Domain\obj\Debug\netcoreapp3.1\ControlCenterServices.Domain.csproj.CopyComplete
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.Domain\obj\Debug\netcoreapp3.1\ControlCenterServices.Domain.dll
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.Domain\obj\Debug\netcoreapp3.1\ControlCenterServices.Domain.pdb

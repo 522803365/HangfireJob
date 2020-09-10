@@ -6,12 +6,4 @@ D:\Workspace\ControlCenterServices\src\ControlCenterServicesBackgroundJobs\obj\D
 D:\Workspace\ControlCenterServices\src\ControlCenterServicesBackgroundJobs\obj\Debug\netcoreapp3.1\ControlCenterServicesBackgroundJobs.csproj.CoreCompileInputs.cache
 D:\Workspace\ControlCenterServices\src\ControlCenterServicesBackgroundJobs\obj\Debug\netcoreapp3.1\ControlCenterServicesBackgroundJobs.dll
 D:\Workspace\ControlCenterServices\src\ControlCenterServicesBackgroundJobs\obj\Debug\netcoreapp3.1\ControlCenterServicesBackgroundJobs.pdb
-D:\workspace\sourctree\Hangfire\src\ControlCenterServicesBackgroundJobs\bin\Debug\netcoreapp3.1\ControlCenterServicesBackgroundJobs.deps.json
-D:\workspace\sourctree\Hangfire\src\ControlCenterServicesBackgroundJobs\bin\Debug\netcoreapp3.1\ControlCenterServicesBackgroundJobs.dll
-D:\workspace\sourctree\Hangfire\src\ControlCenterServicesBackgroundJobs\bin\Debug\netcoreapp3.1\ControlCenterServicesBackgroundJobs.pdb
-D:\workspace\sourctree\Hangfire\src\ControlCenterServicesBackgroundJobs\obj\Debug\netcoreapp3.1\ControlCenterServicesBackgroundJobs.csprojAssemblyReference.cache
-D:\workspace\sourctree\Hangfire\src\ControlCenterServicesBackgroundJobs\obj\Debug\netcoreapp3.1\ControlCenterServicesBackgroundJobs.AssemblyInfoInputs.cache
-D:\workspace\sourctree\Hangfire\src\ControlCenterServicesBackgroundJobs\obj\Debug\netcoreapp3.1\ControlCenterServicesBackgroundJobs.AssemblyInfo.cs
-D:\workspace\sourctree\Hangfire\src\ControlCenterServicesBackgroundJobs\obj\Debug\netcoreapp3.1\ControlCenterServicesBackgroundJobs.csproj.CoreCompileInputs.cache
-D:\workspace\sourctree\Hangfire\src\ControlCenterServicesBackgroundJobs\obj\Debug\netcoreapp3.1\ControlCenterServicesBackgroundJobs.dll
-D:\workspace\sourctree\Hangfire\src\ControlCenterServicesBackgroundJobs\obj\Debug\netcoreapp3.1\ControlCenterServicesBackgroundJobs.pdb
+D:\workspace\ControlCenterServices\src\ControlCenterServicesBackgroundJobs\obj\Debug\netcoreapp3.1\ControlCenterServicesBackgroundJobs.csprojAssemblyReference.cache

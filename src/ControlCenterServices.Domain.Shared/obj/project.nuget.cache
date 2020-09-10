@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Stmby8W4NKjc+/FB40fLy0j5FxuKLBz5TQ13eiibvQoA1j4kj+PZs70iaS8o3bdYDOA2aMbzIIV39V31IPCMGw==",
+  "dgSpecHash": "h7XgPBRp5YAFXnZ0VC+AJnYDTkyNN1S4l6lYn1TIN/ezQLJmATkzpTJmc8SqSoyLQoklLYRlgggzalY2S12gMg==",
   "success": true,
-  "projectFilePath": "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.Domain.Shared\\ControlCenterServices.Domain.Shared.csproj",
+  "projectFilePath": "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.Domain.Shared\\ControlCenterServices.Domain.Shared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wutao\\.nuget\\packages\\jetbrains.annotations\\2020.1.0\\jetbrains.annotations.2020.1.0.nupkg.sha512",
     "C:\\Users\\wutao\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

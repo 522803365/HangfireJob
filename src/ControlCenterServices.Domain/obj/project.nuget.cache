@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OAXG9cTZ9Hh5qXai/aCr+4mnxBdkmnGr2abbKUmJVgm6f5kgKC9mzMJ9joVMt0yx5n4mJvrWQUrKUPPz4c9Cjw==",
+  "dgSpecHash": "0vjWaV9uSdq5iIciow0aAvo5lmgLg14wNDKChMcMUmEsIvX2rYyWS3UwiATNazyGgvE4qswTS9saeQVlt0CzXA==",
   "success": true,
-  "projectFilePath": "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.Domain\\ControlCenterServices.Domain.csproj",
+  "projectFilePath": "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.Domain\\ControlCenterServices.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wutao\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\wutao\\.nuget\\packages\\identitymodel\\4.1.1\\identitymodel.4.1.1.nupkg.sha512",

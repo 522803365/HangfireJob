@@ -59,7 +59,7 @@ namespace ControlCenterServices.BackgroundJobs
         public override void OnApplicationInitialization(ApplicationInitializationContext context)
         {
             var app = context.GetApplicationBuilder();
-
+            //启动
             app.UseHangfireServer();
             app.UseHangfireDashboard(options: new DashboardOptions
             {

@@ -12,17 +12,3 @@ D:\Workspace\ControlCenterServices\src\ControlCenterServices.EntityFrameworkCore
 D:\Workspace\ControlCenterServices\src\ControlCenterServices.EntityFrameworkCore\obj\Debug\netcoreapp3.1\ControlCenterServices.EntityFrameworkCore.csproj.CopyComplete
 D:\Workspace\ControlCenterServices\src\ControlCenterServices.EntityFrameworkCore\obj\Debug\netcoreapp3.1\ControlCenterServices.EntityFrameworkCore.dll
 D:\Workspace\ControlCenterServices\src\ControlCenterServices.EntityFrameworkCore\obj\Debug\netcoreapp3.1\ControlCenterServices.EntityFrameworkCore.pdb
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.EntityFrameworkCore\bin\Debug\netcoreapp3.1\ControlCenterServices.EntityFrameworkCore.deps.json
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.EntityFrameworkCore\bin\Debug\netcoreapp3.1\ControlCenterServices.EntityFrameworkCore.dll
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.EntityFrameworkCore\bin\Debug\netcoreapp3.1\ControlCenterServices.EntityFrameworkCore.pdb
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.EntityFrameworkCore\bin\Debug\netcoreapp3.1\ControlCenterServices.Domain.dll
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.EntityFrameworkCore\bin\Debug\netcoreapp3.1\ControlCenterServices.Domain.Shared.dll
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.EntityFrameworkCore\bin\Debug\netcoreapp3.1\ControlCenterServices.Domain.pdb
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.EntityFrameworkCore\bin\Debug\netcoreapp3.1\ControlCenterServices.Domain.Shared.pdb
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.EntityFrameworkCore\obj\Debug\netcoreapp3.1\ControlCenterServices.EntityFrameworkCore.csprojAssemblyReference.cache
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.EntityFrameworkCore\obj\Debug\netcoreapp3.1\ControlCenterServices.EntityFrameworkCore.AssemblyInfoInputs.cache
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.EntityFrameworkCore\obj\Debug\netcoreapp3.1\ControlCenterServices.EntityFrameworkCore.AssemblyInfo.cs
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.EntityFrameworkCore\obj\Debug\netcoreapp3.1\ControlCenterServices.EntityFrameworkCore.csproj.CoreCompileInputs.cache
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.EntityFrameworkCore\obj\Debug\netcoreapp3.1\ControlCenterServices.EntityFrameworkCore.csproj.CopyComplete
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.EntityFrameworkCore\obj\Debug\netcoreapp3.1\ControlCenterServices.EntityFrameworkCore.dll
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.EntityFrameworkCore\obj\Debug\netcoreapp3.1\ControlCenterServices.EntityFrameworkCore.pdb

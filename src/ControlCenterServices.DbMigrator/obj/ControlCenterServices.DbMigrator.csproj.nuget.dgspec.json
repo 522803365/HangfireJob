@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.DbMigrator\\ControlCenterServices.DbMigrator.csproj": {}
+    "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.DbMigrator\\ControlCenterServices.DbMigrator.csproj": {}
   },
   "projects": {
-    "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.Application.Contracts\\ControlCenterServices.Application.Contracts.csproj": {
+    "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.Application.Contracts\\ControlCenterServices.Application.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.Application.Contracts\\ControlCenterServices.Application.Contracts.csproj",
+        "projectUniqueName": "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.Application.Contracts\\ControlCenterServices.Application.Contracts.csproj",
         "projectName": "ControlCenterServices.Application.Contracts",
-        "projectPath": "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.Application.Contracts\\ControlCenterServices.Application.Contracts.csproj",
+        "projectPath": "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.Application.Contracts\\ControlCenterServices.Application.Contracts.csproj",
         "packagesPath": "C:\\Users\\wutao\\.nuget\\packages\\",
-        "outputPath": "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.Application.Contracts\\obj\\",
+        "outputPath": "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.Application.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wutao\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.Domain.Shared\\ControlCenterServices.Domain.Shared.csproj": {
-                "projectPath": "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.Domain.Shared\\ControlCenterServices.Domain.Shared.csproj"
+              "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.Domain.Shared\\ControlCenterServices.Domain.Shared.csproj": {
+                "projectPath": "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.Domain.Shared\\ControlCenterServices.Domain.Shared.csproj"
               }
             }
           }
@@ -87,14 +87,14 @@
         }
       }
     },
-    "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.DbMigrator\\ControlCenterServices.DbMigrator.csproj": {
+    "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.DbMigrator\\ControlCenterServices.DbMigrator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.DbMigrator\\ControlCenterServices.DbMigrator.csproj",
+        "projectUniqueName": "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.DbMigrator\\ControlCenterServices.DbMigrator.csproj",
         "projectName": "ControlCenterServices.DbMigrator",
-        "projectPath": "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.DbMigrator\\ControlCenterServices.DbMigrator.csproj",
+        "projectPath": "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.DbMigrator\\ControlCenterServices.DbMigrator.csproj",
         "packagesPath": "C:\\Users\\wutao\\.nuget\\packages\\",
-        "outputPath": "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.DbMigrator\\obj\\",
+        "outputPath": "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.DbMigrator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wutao\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -110,11 +110,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.Application.Contracts\\ControlCenterServices.Application.Contracts.csproj": {
-                "projectPath": "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.Application.Contracts\\ControlCenterServices.Application.Contracts.csproj"
+              "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.Application.Contracts\\ControlCenterServices.Application.Contracts.csproj": {
+                "projectPath": "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.Application.Contracts\\ControlCenterServices.Application.Contracts.csproj"
               },
-              "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.EntityFrameworkCore.DbMigrations\\ControlCenterServices.EntityFrameworkCore.DbMigrations.csproj": {
-                "projectPath": "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.EntityFrameworkCore.DbMigrations\\ControlCenterServices.EntityFrameworkCore.DbMigrations.csproj"
+              "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.EntityFrameworkCore.DbMigrations\\ControlCenterServices.EntityFrameworkCore.DbMigrations.csproj": {
+                "projectPath": "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.EntityFrameworkCore.DbMigrations\\ControlCenterServices.EntityFrameworkCore.DbMigrations.csproj"
               }
             }
           }
@@ -171,14 +171,14 @@
         }
       }
     },
-    "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.Domain.Shared\\ControlCenterServices.Domain.Shared.csproj": {
+    "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.Domain.Shared\\ControlCenterServices.Domain.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.Domain.Shared\\ControlCenterServices.Domain.Shared.csproj",
+        "projectUniqueName": "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.Domain.Shared\\ControlCenterServices.Domain.Shared.csproj",
         "projectName": "ControlCenterServices.Domain.Shared",
-        "projectPath": "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.Domain.Shared\\ControlCenterServices.Domain.Shared.csproj",
+        "projectPath": "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.Domain.Shared\\ControlCenterServices.Domain.Shared.csproj",
         "packagesPath": "C:\\Users\\wutao\\.nuget\\packages\\",
-        "outputPath": "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.Domain.Shared\\obj\\",
+        "outputPath": "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.Domain.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wutao\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -262,14 +262,14 @@
         }
       }
     },
-    "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.Domain\\ControlCenterServices.Domain.csproj": {
+    "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.Domain\\ControlCenterServices.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.Domain\\ControlCenterServices.Domain.csproj",
+        "projectUniqueName": "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.Domain\\ControlCenterServices.Domain.csproj",
         "projectName": "ControlCenterServices.Domain",
-        "projectPath": "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.Domain\\ControlCenterServices.Domain.csproj",
+        "projectPath": "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.Domain\\ControlCenterServices.Domain.csproj",
         "packagesPath": "C:\\Users\\wutao\\.nuget\\packages\\",
-        "outputPath": "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.Domain\\obj\\",
+        "outputPath": "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wutao\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -285,8 +285,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.Domain.Shared\\ControlCenterServices.Domain.Shared.csproj": {
-                "projectPath": "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.Domain.Shared\\ControlCenterServices.Domain.Shared.csproj"
+              "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.Domain.Shared\\ControlCenterServices.Domain.Shared.csproj": {
+                "projectPath": "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.Domain.Shared\\ControlCenterServices.Domain.Shared.csproj"
               }
             }
           }
@@ -363,14 +363,14 @@
         }
       }
     },
-    "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.EntityFrameworkCore.DbMigrations\\ControlCenterServices.EntityFrameworkCore.DbMigrations.csproj": {
+    "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.EntityFrameworkCore.DbMigrations\\ControlCenterServices.EntityFrameworkCore.DbMigrations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.EntityFrameworkCore.DbMigrations\\ControlCenterServices.EntityFrameworkCore.DbMigrations.csproj",
+        "projectUniqueName": "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.EntityFrameworkCore.DbMigrations\\ControlCenterServices.EntityFrameworkCore.DbMigrations.csproj",
         "projectName": "ControlCenterServices.EntityFrameworkCore.DbMigrations",
-        "projectPath": "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.EntityFrameworkCore.DbMigrations\\ControlCenterServices.EntityFrameworkCore.DbMigrations.csproj",
+        "projectPath": "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.EntityFrameworkCore.DbMigrations\\ControlCenterServices.EntityFrameworkCore.DbMigrations.csproj",
         "packagesPath": "C:\\Users\\wutao\\.nuget\\packages\\",
-        "outputPath": "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.EntityFrameworkCore.DbMigrations\\obj\\",
+        "outputPath": "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.EntityFrameworkCore.DbMigrations\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wutao\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -386,8 +386,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.EntityFrameworkCore\\ControlCenterServices.EntityFrameworkCore.csproj": {
-                "projectPath": "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.EntityFrameworkCore\\ControlCenterServices.EntityFrameworkCore.csproj"
+              "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.EntityFrameworkCore\\ControlCenterServices.EntityFrameworkCore.csproj": {
+                "projectPath": "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.EntityFrameworkCore\\ControlCenterServices.EntityFrameworkCore.csproj"
               }
             }
           }
@@ -428,14 +428,14 @@
         }
       }
     },
-    "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.EntityFrameworkCore\\ControlCenterServices.EntityFrameworkCore.csproj": {
+    "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.EntityFrameworkCore\\ControlCenterServices.EntityFrameworkCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.EntityFrameworkCore\\ControlCenterServices.EntityFrameworkCore.csproj",
+        "projectUniqueName": "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.EntityFrameworkCore\\ControlCenterServices.EntityFrameworkCore.csproj",
         "projectName": "ControlCenterServices.EntityFrameworkCore",
-        "projectPath": "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.EntityFrameworkCore\\ControlCenterServices.EntityFrameworkCore.csproj",
+        "projectPath": "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.EntityFrameworkCore\\ControlCenterServices.EntityFrameworkCore.csproj",
         "packagesPath": "C:\\Users\\wutao\\.nuget\\packages\\",
-        "outputPath": "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.EntityFrameworkCore\\obj\\",
+        "outputPath": "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.EntityFrameworkCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wutao\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -451,8 +451,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.Domain\\ControlCenterServices.Domain.csproj": {
-                "projectPath": "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.Domain\\ControlCenterServices.Domain.csproj"
+              "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.Domain\\ControlCenterServices.Domain.csproj": {
+                "projectPath": "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.Domain\\ControlCenterServices.Domain.csproj"
               }
             }
           }

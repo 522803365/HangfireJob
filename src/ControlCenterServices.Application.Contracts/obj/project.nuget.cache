@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Mo4vHsB+SP6OE6eEufcx2WQ9QkIJfMrw2xmCh3XIuFyIPXpRtDmOdDezTnhjA18f9ZoWpNtIARwtsAFxpKPtIg==",
+  "dgSpecHash": "v2J+gYTeAA2FdxE8BB7Y8scTU/C38sJQFndassdLICgga4tOVm2v98uwWOBjdXK91omYPFQr8bOm4SY5wOPKHQ==",
   "success": true,
-  "projectFilePath": "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.Application.Contracts\\ControlCenterServices.Application.Contracts.csproj",
+  "projectFilePath": "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.Application.Contracts\\ControlCenterServices.Application.Contracts.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wutao\\.nuget\\packages\\jetbrains.annotations\\2020.1.0\\jetbrains.annotations.2020.1.0.nupkg.sha512",
     "C:\\Users\\wutao\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.1.6\\microsoft.aspnetcore.authorization.3.1.6.nupkg.sha512",

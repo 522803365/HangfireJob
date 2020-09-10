@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fi3qvGI0mmQlPravKte0zyrMzECciykK6GiPszZiTnZxF2xfez+jFNe76mkAsxkEIpPamzpE/sjtNcSyvh5Zzg==",
+  "dgSpecHash": "vPGP8hOYfxAI165++2YEQpo4f8sVh12/d2+8FShyRisZFKpC3Te+1/R1wCRYL7gsJD+uZm18XoIGcc43I7qjng==",
   "success": true,
-  "projectFilePath": "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.HttpApi.Client\\ControlCenterServices.HttpApi.Client.csproj",
+  "projectFilePath": "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.HttpApi.Client\\ControlCenterServices.HttpApi.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wutao\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\wutao\\.nuget\\packages\\castle.core.asyncinterceptor\\2.0.21-alpha\\castle.core.asyncinterceptor.2.0.21-alpha.nupkg.sha512",

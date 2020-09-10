@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.Swagger\\ControlCenterServices.Swagger.csproj",
+      "projectUniqueName": "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.Swagger\\ControlCenterServices.Swagger.csproj",
       "projectName": "ControlCenterServices.Swagger",
-      "projectPath": "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.Swagger\\ControlCenterServices.Swagger.csproj",
+      "projectPath": "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.Swagger\\ControlCenterServices.Swagger.csproj",
       "packagesPath": "C:\\Users\\wutao\\.nuget\\packages\\",
-      "outputPath": "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.Swagger\\obj\\",
+      "outputPath": "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.Swagger\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\wutao\\AppData\\Roaming\\NuGet\\NuGet.Config",

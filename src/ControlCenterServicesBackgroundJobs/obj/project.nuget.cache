@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xZF82aYHnH42DtTxx0aImUf8JAx+1IKw32jIpICEp67U71UDkgxbrdzuqNUMuV0MbOWf1UFxeC1/MjcObX6fcA==",
+  "dgSpecHash": "qHVb8d1QVR/4l1IQIusUYmXF2Za++VYx+NDu6QAh9DjWzd9LVQp+yHze9YdGd2aPjmPjljUJKSsTrpEzwymfiA==",
   "success": true,
-  "projectFilePath": "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServicesBackgroundJobs\\ControlCenterServicesBackgroundJobs.csproj",
+  "projectFilePath": "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServicesBackgroundJobs\\ControlCenterServicesBackgroundJobs.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wutao\\.nuget\\packages\\log4net\\2.0.9\\log4net.2.0.9.nupkg.sha512",
     "C:\\Users\\wutao\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

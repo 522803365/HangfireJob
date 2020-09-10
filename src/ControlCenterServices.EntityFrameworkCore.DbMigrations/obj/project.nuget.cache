@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mfEn8EQ9ULGmok18uA/+Xehe/mxs3vttSutO6mj2M9CEhEX9NpWCqz1QBdGrBtbCON7jQYomNWwjx4e1Rj/jiA==",
+  "dgSpecHash": "DfC/0YMy+5npum6rgZWKLo5F/KLM/4j2fT7kQNxL568dC2fPntL0iZugsDauaCOYyM7zVPeds7awKjmqFHXUQA==",
   "success": true,
-  "projectFilePath": "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.EntityFrameworkCore.DbMigrations\\ControlCenterServices.EntityFrameworkCore.DbMigrations.csproj",
+  "projectFilePath": "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.EntityFrameworkCore.DbMigrations\\ControlCenterServices.EntityFrameworkCore.DbMigrations.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wutao\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\wutao\\.nuget\\packages\\identitymodel\\4.1.1\\identitymodel.4.1.1.nupkg.sha512",

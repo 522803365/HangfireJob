@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2WoGacDyhTQy47lGPKhBC0Hr389LzLnl4IUWYmue4R4GuZvj1YaHBSppey8SCZH6dgJqH1bRE9Rr7k1/rhPV+A==",
+  "dgSpecHash": "qnGXyUh0AjOi/pKXsM8yg7U3x8lnJdUChuL0D9/1kE57dS0W9C45f8OMnZPEGO6WFcfhbwZ7hSMENbux7scbLg==",
   "success": true,
-  "projectFilePath": "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.BackgroundJobs\\ControlCenterServices.BackgroundJobs.csproj",
+  "projectFilePath": "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.BackgroundJobs\\ControlCenterServices.BackgroundJobs.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wutao\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\wutao\\.nuget\\packages\\dapper\\2.0.30\\dapper.2.0.30.nupkg.sha512",

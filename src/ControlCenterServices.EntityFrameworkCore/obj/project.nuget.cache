@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nZH6jQrmX5QUiGKCtRX+no3bfPY4dGa6oiPR+DeJ6tbBDb988ds5Nq3C7tDYfc5k5OTzCFfKEwpYY3LM+pljpg==",
+  "dgSpecHash": "MMcIKoUnMLIFrb7sl5lBHlaKO7T3hp5DbwGAcGMbE/B4Ov5dFEe4SB7ijfktJ9UcjFnuV2f9g9/bLuUiHdH41A==",
   "success": true,
-  "projectFilePath": "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.EntityFrameworkCore\\ControlCenterServices.EntityFrameworkCore.csproj",
+  "projectFilePath": "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.EntityFrameworkCore\\ControlCenterServices.EntityFrameworkCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wutao\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\wutao\\.nuget\\packages\\identitymodel\\4.1.1\\identitymodel.4.1.1.nupkg.sha512",

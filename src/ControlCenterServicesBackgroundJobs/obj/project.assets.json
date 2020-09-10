@@ -4707,11 +4707,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServicesBackgroundJobs\\ControlCenterServicesBackgroundJobs.csproj",
+      "projectUniqueName": "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServicesBackgroundJobs\\ControlCenterServicesBackgroundJobs.csproj",
       "projectName": "ControlCenterServicesBackgroundJobs",
-      "projectPath": "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServicesBackgroundJobs\\ControlCenterServicesBackgroundJobs.csproj",
+      "projectPath": "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServicesBackgroundJobs\\ControlCenterServicesBackgroundJobs.csproj",
       "packagesPath": "C:\\Users\\wutao\\.nuget\\packages\\",
-      "outputPath": "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServicesBackgroundJobs\\obj\\",
+      "outputPath": "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServicesBackgroundJobs\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\wutao\\AppData\\Roaming\\NuGet\\NuGet.Config",

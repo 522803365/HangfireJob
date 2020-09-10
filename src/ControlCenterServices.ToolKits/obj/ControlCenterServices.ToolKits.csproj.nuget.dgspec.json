@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.ToolKits\\ControlCenterServices.ToolKits.csproj": {}
+    "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.ToolKits\\ControlCenterServices.ToolKits.csproj": {}
   },
   "projects": {
-    "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.ToolKits\\ControlCenterServices.ToolKits.csproj": {
+    "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.ToolKits\\ControlCenterServices.ToolKits.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.ToolKits\\ControlCenterServices.ToolKits.csproj",
+        "projectUniqueName": "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.ToolKits\\ControlCenterServices.ToolKits.csproj",
         "projectName": "ControlCenterServices.ToolKits",
-        "projectPath": "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.ToolKits\\ControlCenterServices.ToolKits.csproj",
+        "projectPath": "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.ToolKits\\ControlCenterServices.ToolKits.csproj",
         "packagesPath": "C:\\Users\\wutao\\.nuget\\packages\\",
-        "outputPath": "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.ToolKits\\obj\\",
+        "outputPath": "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.ToolKits\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wutao\\AppData\\Roaming\\NuGet\\NuGet.Config",

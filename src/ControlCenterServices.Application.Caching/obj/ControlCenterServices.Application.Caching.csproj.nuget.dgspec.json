@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.Application.Caching\\ControlCenterServices.Application.Caching.csproj": {}
+    "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.Application.Caching\\ControlCenterServices.Application.Caching.csproj": {}
   },
   "projects": {
-    "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.Application.Caching\\ControlCenterServices.Application.Caching.csproj": {
+    "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.Application.Caching\\ControlCenterServices.Application.Caching.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.Application.Caching\\ControlCenterServices.Application.Caching.csproj",
+        "projectUniqueName": "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.Application.Caching\\ControlCenterServices.Application.Caching.csproj",
         "projectName": "ControlCenterServices.Application.Caching",
-        "projectPath": "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.Application.Caching\\ControlCenterServices.Application.Caching.csproj",
+        "projectPath": "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.Application.Caching\\ControlCenterServices.Application.Caching.csproj",
         "packagesPath": "C:\\Users\\wutao\\.nuget\\packages\\",
-        "outputPath": "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.Application.Caching\\obj\\",
+        "outputPath": "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.Application.Caching\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wutao\\AppData\\Roaming\\NuGet\\NuGet.Config",

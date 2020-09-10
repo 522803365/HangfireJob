@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CvKMjdC6rkDdp3a2c1tClDUtg2tCH2x4cBqBE86c1TC8yPdgP8LxV20lnr1k2zf5/aG145JwBzyXClNL1P3DOw==",
+  "dgSpecHash": "kebrHzTMWrgk6/aJfD+Xwh+R+AZQhPGVqMsBbJs4FNF26/lmpsYOAydcjKOmpcaE5JuyIeH66syJrJTrnsCSHg==",
   "success": true,
-  "projectFilePath": "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.Swagger\\ControlCenterServices.Swagger.csproj",
+  "projectFilePath": "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.Swagger\\ControlCenterServices.Swagger.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

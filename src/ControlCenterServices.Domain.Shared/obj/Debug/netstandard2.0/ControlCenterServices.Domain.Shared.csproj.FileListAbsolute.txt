@@ -7,13 +7,4 @@ D:\Workspace\ControlCenterServices\src\ControlCenterServices.Domain.Shared\obj\D
 D:\Workspace\ControlCenterServices\src\ControlCenterServices.Domain.Shared\obj\Debug\netstandard2.0\ControlCenterServices.Domain.Shared.csproj.CoreCompileInputs.cache
 D:\Workspace\ControlCenterServices\src\ControlCenterServices.Domain.Shared\obj\Debug\netstandard2.0\ControlCenterServices.Domain.Shared.dll
 D:\Workspace\ControlCenterServices\src\ControlCenterServices.Domain.Shared\obj\Debug\netstandard2.0\ControlCenterServices.Domain.Shared.pdb
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.Domain.Shared\bin\Debug\netstandard2.0\ControlCenterServices.Domain.Shared.deps.json
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.Domain.Shared\bin\Debug\netstandard2.0\ControlCenterServices.Domain.Shared.dll
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.Domain.Shared\bin\Debug\netstandard2.0\ControlCenterServices.Domain.Shared.pdb
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.Domain.Shared\obj\Debug\netstandard2.0\ControlCenterServices.Domain.Shared.csprojAssemblyReference.cache
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.Domain.Shared\obj\Debug\netstandard2.0\ControlCenterServices.Domain.Shared.EmbeddedFilesManifest.cache
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.Domain.Shared\obj\Debug\netstandard2.0\ControlCenterServices.Domain.Shared.AssemblyInfoInputs.cache
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.Domain.Shared\obj\Debug\netstandard2.0\ControlCenterServices.Domain.Shared.AssemblyInfo.cs
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.Domain.Shared\obj\Debug\netstandard2.0\ControlCenterServices.Domain.Shared.csproj.CoreCompileInputs.cache
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.Domain.Shared\obj\Debug\netstandard2.0\ControlCenterServices.Domain.Shared.dll
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.Domain.Shared\obj\Debug\netstandard2.0\ControlCenterServices.Domain.Shared.pdb
+D:\workspace\ControlCenterServices\src\ControlCenterServices.Domain.Shared\obj\Debug\netstandard2.0\ControlCenterServices.Domain.Shared.csprojAssemblyReference.cache

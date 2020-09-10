@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FJpUngwuxNiEY/c26ZcHxwZEbPHBPFEGT+NQGdMkTKfgQPXwW1SwNZHpFLd6ZMvCdrObt8n3hmuJs4QDSqigOg==",
+  "dgSpecHash": "0sx7cy9BBstTfapER890BAMnlCyaArpN0OTwBJuE9JvmSHd0YQhvTpL6Jz/hUq8JKY+yLTh1/XnVbnp+lsR8JA==",
   "success": true,
-  "projectFilePath": "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.Application\\ControlCenterServices.Application.csproj",
+  "projectFilePath": "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.Application\\ControlCenterServices.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wutao\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\wutao\\.nuget\\packages\\jetbrains.annotations\\2020.1.0\\jetbrains.annotations.2020.1.0.nupkg.sha512",

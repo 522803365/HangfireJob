@@ -26,17 +26,3 @@ D:\Workspace\ControlCenterServices\src\ControlCenterServices.BackgroundJobs\obj\
 D:\Workspace\ControlCenterServices\src\ControlCenterServices.BackgroundJobs\obj\Debug\netcoreapp3.1\ControlCenterServices.BackgroundJobs.csproj.CopyComplete
 D:\Workspace\ControlCenterServices\src\ControlCenterServices.BackgroundJobs\obj\Debug\netcoreapp3.1\ControlCenterServices.BackgroundJobs.dll
 D:\Workspace\ControlCenterServices\src\ControlCenterServices.BackgroundJobs\obj\Debug\netcoreapp3.1\ControlCenterServices.BackgroundJobs.pdb
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.BackgroundJobs\bin\Debug\netcoreapp3.1\ControlCenterServices.BackgroundJobs.deps.json
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.BackgroundJobs\bin\Debug\netcoreapp3.1\ControlCenterServices.BackgroundJobs.dll
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.BackgroundJobs\bin\Debug\netcoreapp3.1\ControlCenterServices.BackgroundJobs.pdb
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.BackgroundJobs\bin\Debug\netcoreapp3.1\ControlCenterServices.Domain.dll
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.BackgroundJobs\bin\Debug\netcoreapp3.1\ControlCenterServices.Domain.Shared.dll
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.BackgroundJobs\bin\Debug\netcoreapp3.1\ControlCenterServices.Domain.pdb
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.BackgroundJobs\bin\Debug\netcoreapp3.1\ControlCenterServices.Domain.Shared.pdb
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.BackgroundJobs\obj\Debug\netcoreapp3.1\ControlCenterServices.BackgroundJobs.csprojAssemblyReference.cache
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.BackgroundJobs\obj\Debug\netcoreapp3.1\ControlCenterServices.BackgroundJobs.AssemblyInfoInputs.cache
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.BackgroundJobs\obj\Debug\netcoreapp3.1\ControlCenterServices.BackgroundJobs.AssemblyInfo.cs
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.BackgroundJobs\obj\Debug\netcoreapp3.1\ControlCenterServices.BackgroundJobs.csproj.CoreCompileInputs.cache
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.BackgroundJobs\obj\Debug\netcoreapp3.1\ControlCenterServices.BackgroundJobs.csproj.CopyComplete
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.BackgroundJobs\obj\Debug\netcoreapp3.1\ControlCenterServices.BackgroundJobs.dll
-D:\workspace\sourctree\Hangfire\src\ControlCenterServices.BackgroundJobs\obj\Debug\netcoreapp3.1\ControlCenterServices.BackgroundJobs.pdb

@@ -2760,7 +2760,10 @@
         },
         "runtime": {
           "bin/placeholder/ControlCenterServices.Domain.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       },
       "ControlCenterServices.Domain.Shared/1.0.0": {
         "type": "project",
@@ -2803,7 +2806,10 @@
         },
         "runtime": {
           "bin/placeholder/ControlCenterServices.EntityFrameworkCore.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },
@@ -8574,11 +8580,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.EntityFrameworkCore.DbMigrations\\ControlCenterServices.EntityFrameworkCore.DbMigrations.csproj",
+      "projectUniqueName": "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.EntityFrameworkCore.DbMigrations\\ControlCenterServices.EntityFrameworkCore.DbMigrations.csproj",
       "projectName": "ControlCenterServices.EntityFrameworkCore.DbMigrations",
-      "projectPath": "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.EntityFrameworkCore.DbMigrations\\ControlCenterServices.EntityFrameworkCore.DbMigrations.csproj",
+      "projectPath": "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.EntityFrameworkCore.DbMigrations\\ControlCenterServices.EntityFrameworkCore.DbMigrations.csproj",
       "packagesPath": "C:\\Users\\wutao\\.nuget\\packages\\",
-      "outputPath": "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.EntityFrameworkCore.DbMigrations\\obj\\",
+      "outputPath": "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.EntityFrameworkCore.DbMigrations\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\wutao\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8594,8 +8600,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.EntityFrameworkCore\\ControlCenterServices.EntityFrameworkCore.csproj": {
-              "projectPath": "D:\\workspace\\sourctree\\Hangfire\\src\\ControlCenterServices.EntityFrameworkCore\\ControlCenterServices.EntityFrameworkCore.csproj"
+            "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.EntityFrameworkCore\\ControlCenterServices.EntityFrameworkCore.csproj": {
+              "projectPath": "D:\\workspace\\ControlCenterServices\\src\\ControlCenterServices.EntityFrameworkCore\\ControlCenterServices.EntityFrameworkCore.csproj"
             }
           }
         }

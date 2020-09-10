@@ -20,8 +20,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\ControlCenterServices.BackgroundJobs\ControlCenterServices.BackgroundJobs.csproj" />
     <ProjectReference Include="..\ControlCenterServices.EntityFrameworkCore\ControlCenterServices.EntityFrameworkCore.csproj" />
     <ProjectReference Include="..\ControlCenterServices.HttpApi\ControlCenterServices.HttpApi.csproj" />
+    <ProjectReference Include="..\ControlCenterServicesBackgroundJobs\ControlCenterServicesBackgroundJobs.csproj" />
   </ItemGroup>
 
 </Project>
